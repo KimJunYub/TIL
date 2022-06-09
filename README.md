@@ -9,3 +9,5 @@
 
 
 
+TStory : https://checono.tistory.com/
+Youtube : https://www.youtube.com/channel/UCam-p4o4nVgBvMRtwyj7tWA
