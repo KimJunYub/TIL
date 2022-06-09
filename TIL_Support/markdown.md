@@ -100,7 +100,7 @@ public class Sample {
 | _      | &#95;       |           | underscore               |
 | `      | &#96;       |           | grave accent             |
 | {      | &#123;      |           | opening brace            |
-| &#124;      | &#124;      |           | vertical bar - pipe      |
+| |      | &#124;      |           | vertical bar - pipe      |
 | }      | &#125;      |           | closing brace            |
 | ~      | &#126;      |           | equivalency sign - tilde |
 | –      | &#8211;     |           | en dash                  |
