@@ -16,7 +16,7 @@
 - - -
 - - - 
 
-## 2. BlockQuote
+## 2. 인용문(BlockQuote)
  (>) + 문자
 ```
 > sample 
@@ -106,3 +106,92 @@ public class Sample {
 | –      | &#8211;     |           | en dash                  |
 ```
 
+## 6. 수평선
+
+- 수평선 
+```
+***
+* * *
+---
+- - -
+```
+
+- sample 
+
+***
+* * *
+---
+- - -
+
+## 7. 글꼴 
+
+```
+*single asterisks* -  이탈릭(기울임)
+
+_single underscores_ -  이탈릭(기울임)
+
+**double asterisks** - 굵게
+
+__double underscores__ - 굵게
+
+~~cancelline~~ - 취소선
+
+<U>밑줄</U> - 밑줄
+
+<span style="color:red">RED</span> 
+
+<span style="color:blue">BLUE</span>
+```
+
+- Sample 
+
+*single asterisks* -  이탈릭(기울임)
+
+_single underscores_ -  이탈릭(기울임)
+
+**double asterisks** - 굵게
+
+__double underscores__ - 굵게
+
+~~cancelline~~ - 취소선
+
+<U>밑줄</U> - 밑줄
+
+<span style="color:red">RED</span> 
+
+<span style="color:blue">BLUE</span>
+
+## 8. 표
+```
+- 표는 <span style="color:red">|</span>를 사용하며 두 번째 줄에 있는 <span style="color:red">:</span>의 위치에 따라 해당 열의 정렬을 설정
+
+|a|b|c|d|
+|-|-|-|-|
+|1|2|3|4|
+|5|6|7|8|
+```
+- Sample 
+
+|a|b|c|d|
+|-|-|-|-|
+|1|2|3|4|
+|5|6|7|8|
+
+## 9. 링크
+```
+[네이버](https://www.naver.com)로 << 네이버 클릭! 
+```
+- Sample 
+
+[네이버](https://www.naver.com) << 네이버 클릭!
+
+## 10. 이미지
+```
+이미지 주소를활용
+```
+```
+![Alt text](/path/img.jpg)
+![Alt text](/path/img.jpg "Optional title")
+<img width="" height=""></img>
+```
+![git](https://images.velog.io/images/gparkkii/post/7939a185-383b-4191-9fc6-22051ddf5094/github-white-logo-700-740x395.png "git cat")
