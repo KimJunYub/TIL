@@ -1,0 +1,8 @@
+#log에 날짜 삽입
+date >> /path/out.log  
+#문자 삽입
+echo "" >> /path/out.log  
+sqlplus ID/PW SVName << EOF
+@/path/sql.sql
+EXIT;
+EOF
