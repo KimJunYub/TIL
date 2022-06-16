@@ -6,7 +6,7 @@
 - 프로토타입 모형 (Prototype Model)
 - 나선형 모형 (Spiral Model)
 - 애자일 모형 (Agile Model)
-
+ 
 1. 폭포수 모형(Waterfall Model)
 - 각 단계를 확실히 매듭짓고 결과를 검토하여 승인과정을거친후 다음단계를 진행 
 - 가장오래된 전통적인 소프트웨어 생명주기
