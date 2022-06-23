@@ -40,3 +40,5 @@
 
 - 스크럼 개발 프로세스
   ![Scrum](https://github.com/KimJunYub/TIL/blob/main/Data/scrum.jpg?raw=true "Scrum")
+
+  
